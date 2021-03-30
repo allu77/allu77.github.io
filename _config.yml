@@ -28,7 +28,7 @@ twitter_username: allu1977
 github_username:  allu77
 
 # Build settings
-theme: hacker
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
